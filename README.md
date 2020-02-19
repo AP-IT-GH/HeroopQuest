@@ -14,6 +14,7 @@ Poging tot HeroQuest als kapstok te gebruiken om eerste OOP concepten in het vak
 # Externe bronnen
 
 * [HeroSCribe](http://www.heroscribe.org/download.html): Maps en quest editor
+    * [HeroScirbe 2](https://github.com/Anderas2/Heroscribe2): Sourcecode in python
     * [Mappen in XML](http://www.heroscribe.org/xmls.html): Iedere kaart uit het questboek in handig xml formaat
 
 * [HeroQuest in Unity](http://mepem.com/pemcode/?cat=14&paged=5)
