@@ -6,7 +6,7 @@ namespace src_HeroopQuest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            HeroQuest.Play();
         }
     }
 }
